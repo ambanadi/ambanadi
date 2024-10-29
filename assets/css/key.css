@@ -1,0 +1,89 @@
+body{
+	background-color: #FDFDE9;
+}
+#container
+{
+	margin: 0 auto;
+	width: 900px;
+	background:#FDFDE9;
+}
+
+#header
+{
+	background:#FDFDE9;
+	padding: 20px;
+	color: red;
+}
+
+#header h2 { 
+margin: 0; 
+font-family:Myanmar3, Padauk,Parabaik;
+text-align: center;
+}
+
+#navigation
+{
+	float: left;
+	width: 900px;
+	background:red;
+}
+
+#navigation ul
+{
+	margin: 0;
+	padding: 0;
+}
+
+#navigation ul li
+{
+	font-family:Myanmar3, Padauk,Parabaik;
+	list-style-type: none;
+	display: inline;
+}
+
+#navigation li a
+{
+	display: block;
+	float: left;
+	padding: 5px 10px;
+	color:#fff;
+	text-decoration: none;
+	border-right: 1px solid#fff;
+}
+
+#navigation li a:hover { background:#383; }
+
+#content
+{
+	clear: left;
+	padding: 20px;
+	font-family:Myanmar3, Padauk,Parabaik;
+}
+
+#content h3
+{
+	color:#000;
+	margin: 0 0 .5em;
+	font-family:Myanmar3, Padauk,Parabaik;
+}
+
+#footer
+{
+	background:red;
+	color: white;
+	text-align: right;
+	padding: 20px;
+	height: 3%;
+}
+
+table.kbd td{
+font-family:Myanmar3, Padauk,Parabaik;
+border-width: 2px 4px 5px 3px;
+border-style: solid;
+border-color: #ccc #aaa #888 #bbb;
+padding:5px 3px;
+white-space:nowrap;
+color:#000;
+background:#eee;
+}
+td span.my { float: right; color: Blue; }
