@@ -8,7 +8,7 @@
 - 📫 ambanadi@gmail.com ကိုလိပ်မူနိုင်ရေ
 - 😄 Pronouns: ကျား ပါ
 - ⚡ Fun fact: နွီးထွိးစွာကြိုဆိုပါရေ
-- [Blpg:](https://ambanadi.github.io/ambanadi/) 
+- [Blog:] (https://ambanadi.github.io/ambanadi/) 
 ## Table of Contents
 
 - [UI Graphics](#ui-graphics)
